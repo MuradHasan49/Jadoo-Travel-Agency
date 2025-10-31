@@ -8,7 +8,6 @@ It showcases beautiful destinations, affordable tour packages, and smooth naviga
 
 ## 🖼️ Preview  
 ![Jadoo Travel 24 Preview](https://github.com/MuradHasan49/Jadoo-Travel-Agency/blob/main/JadooTravel.png)  
-*(Replace this image URL with an actual screenshot of your site if you prefer.)*
 
 ## ✨ Features
 
