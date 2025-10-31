@@ -7,7 +7,7 @@ It showcases beautiful destinations, affordable tour packages, and smooth naviga
 🔗 **[Visit Jadoo Travel 24](https://jadootravel24.netlify.app/)**
 
 ## 🖼️ Preview  
-![Jadoo Travel 24 Preview](https://i.ibb.co/2Nzjwn8/travel-preview.jpg)  
+![Jadoo Travel 24 Preview](https://github.com/MuradHasan49/Jadoo-Travel-Agency/blob/main/JadooTravel.png)  
 *(Replace this image URL with an actual screenshot of your site if you prefer.)*
 
 ## ✨ Features
